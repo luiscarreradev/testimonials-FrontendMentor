@@ -18,7 +18,6 @@
 
 # Archivos a descartar
 .vscode
-/design/
 /node_modules/
 package-lock.json
 package.json
